@@ -1,4 +1,4 @@
-![phone-render](https://i.loli.net/2017/09/07/59b1367f76fdb.png)
+![](https://qiniu.viosey.com/img/Material-Phone-Render.png)
 
 # Material 原质
 
@@ -20,7 +20,7 @@
 
 ## General 概括
 
-[![Version](https://img.shields.io/badge/version-1.5.0-blue.svg?style=flat-square)]()
+[![Version](https://img.shields.io/badge/version-1.5.0-green.svg?style=flat-square)]()
 [![Author](https://img.shields.io/badge/author-Viosey-blue.svg?style=flat-square)](https://viosey.com)
 
 [![Hexo](https://img.shields.io/badge/hexo-3.0+-green.svg?style=flat-square)](https://hexo.io)

@@ -96,7 +96,13 @@
             <li class="divider"></li>
         <% } %>
     <% } %>
-
+        <script>
+            if(window.location.href.startsWith("http://")) {
+                var httpslink = window.location.href.replace('http','https');
+                document.write("<li><a href='" + httpslink + "' title='HTTPS连接更安全'>");
+                document.write("<i class='material-icons sidebar-material-icons'>lock</i>HTTPS连接更安全</a></li>")
+            }
+        </script>
     <!-- Article Number  -->
     <% if(theme.sidebar.article_num.use === true) { %>
         <li>

@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "//cdn.copperion.com/material/logo.png"
-    high_res_favicon: "//cdn.copperion.com/material/logo.png"
-    apple_touch_icon: "/cdn.copperion.com/material/logo.png"
+    favicon: "//cdn.copperion.com/hexo-theme-material/source/img/logo.png"
+    high_res_favicon: //cdn.copperion.com/hexo-theme-material/source/img/logo.png"
+    apple_touch_icon: //cdn.copperion.com/hexo-theme-material/source/img/logo.png"
     keywords:
     site_verification:
         google:
@@ -172,12 +172,12 @@ sns:
     facebook: "https://www.facebook.com/yutao.gu.1"
     twitter: "https://twitter.com/CopperKun"
     googleplus: "https://plus.google.com/107690146998658664790"
-    weibo: "http://weibo.com/CopperKun"
+    weibo: "https://weibo.com/CopperKun"
     instagram:
     tumblr:
     github: "https://github.com/CopperKun"
     linkedin:
-    zhihu: "http://zhihu.com/people/Yutao.Gu"
+    zhihu: "https://zhihu.com/people/Yutao.Gu"
     bilibili: "https://space.bilibili.com/7564991/"
     telegram:
     v2ex:

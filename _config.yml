@@ -63,7 +63,7 @@ thumbnail:
 #        type available value: A (animal), C (culture), N (nature), S (space), T (travel)
 background:
     purecolor: "#F5F5F5"
-    bgimg: 
+    bgimg:
     bing:
         enable: false
         parameter:
@@ -105,7 +105,7 @@ copyright_since: 2017
 # You can specify the text you want to show in footer, HTML tag is supported.
 #   For example, you can setup ICP license number as:
 #       '<a href="http://www.miitbeian.gov.cn" rel="nofollow">某ICP备xxxxxxxx号-x</a>'
-footer_text: 
+footer_text:
 
 # Qrcode for redirect at other device
 #    use: choose which method to generate the qrcode for each posts.
@@ -175,7 +175,7 @@ sns:
     weibo: "https://weibo.com/CopperKun"
     instagram:
     tumblr:
-    github: "https://github.com/CopperKun"
+    github: "https://github.com/copperion"
     linkedin:
     zhihu: "https://zhihu.com/people/Yutao.Gu"
     bilibili: "https://space.bilibili.com/7564991/"
@@ -261,7 +261,7 @@ comment:
     valine_placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
     valine_guest_info: nick,mail,link #valine comment header info
     gitalk_repo: copper-ion-com # git repo of the hexo
-    gitalk_owner: CopperKun # git repo's owner
+    gitalk_owner: copperion # git repo's owner
     gitalk_client_id: a78eeb58181249e7e120 # github app client id
     gitalk_client_secret: fd115ad0acdc3d9b7de9e7de2eee198c56deb98f # github app client secret
     wildfire_database_provider: firebase # firebase or wilddog

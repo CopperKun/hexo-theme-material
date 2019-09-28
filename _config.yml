@@ -70,7 +70,6 @@ background:
 
 # Images Settings
 img:
-
     logo: "//cdn.copperion.com/hexo-theme-material/source/img/logo.png"
     avatar: "//cdn.copperion.com/hexo-theme-material/source/img/avatar.jpg"
     daily_pic: "//cdn.copperion.com/hexo-theme-material/source/img/header.jpg"
@@ -90,8 +89,8 @@ img:
 #          to /source/data/head.yml as custom code, to load custom font files.
 fonts:
     family: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
-    use: ustc
-    custom_font_host:
+    use: custom
+    custom_font_host: "https://fonts.loli.net/"
 
 # Card Elevation Level
 card_elevation: 2

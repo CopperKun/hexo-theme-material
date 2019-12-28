@@ -211,7 +211,7 @@ sidebar:
         icon: chrome_reader_mode
         divider: true
     pages:
-        友情链接:
+        友人帐:
             link: "/links"
             icon: link
             divider: false
